@@ -1,0 +1,236 @@
+body {
+padding: 0%;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 45px;
+}
+h4 {
+    margin-top: -4rem;
+    margin-left: 25rem;
+}
+
+p {
+    
+    margin-left: 19rem;
+    margin-right: 11.7rem;
+   
+    
+}
+.right {
+    text-align: center;
+    padding-top: 15rem;
+    font-size: 25px;
+}
+.job {
+    
+    display: table;
+    margin-left: 18rem;
+    font-size: 25px;
+    text-align: center;
+}
+video {
+    width: 50%;
+    height: auto;
+    margin-left: 28%;
+    margin-top: -6rem;
+  }
+  @media screen and (max-width: 480px ) {
+      .job {
+          margin-top: 1rem;
+          margin-left: 3rem;
+          font-size: 17px;
+      }
+  }
+  @media screen and (max-width: 480px) {
+     .right {
+         padding-top: 7rem;
+         font-size: 18px;
+     }
+  }
+  @media screen and (max-width: 480px ) {
+      video {
+          width: 80%;
+          height: 350px;
+          margin-left: 45px;
+          margin-top: -10rem;
+      }
+  }
+
+@media screen and (max-width: 480px) {
+    p {
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+}
+@media screen and (max-width: 480px) {
+    .great {
+        display: table;
+ margin-top: 1rem;       
+    }
+}
+@media screen and (max-width: 480px) {
+h2 {
+    text-align: center;
+    margin-top: 1.7rem;
+    font-size: 30px;
+}
+}
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 30px;
+        margin-top: 4rem;
+    }
+}
+form {
+    display: flex;
+    justify-content: center;
+    align-items: stretch; 
+}
+.search {
+    background-color: rgba(43, 95, 165, 1);
+    
+
+}
+.view {
+    margin-left: 2rem;
+    padding: 1rem;
+   
+}
+@media screen and (max-width: 480px) {
+    h3 {
+        text-align: center;
+        padding-top: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .view {
+        margin-left: 0.4rem;
+        width: 5.5rem;
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+        text-align: center;
+    }
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+}
+@media screen and (max-width: 480px) {
+    .head {
+        display: none;
+    }
+}
+@media screen and (max-width: 480px) { 
+    .responsive {
+      
+max-width: 23rem;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1rem;
+        
+      }
+   
+
+}
+
+.responsive {
+ width: 75rem;
+ margin-left: auto;
+ margin-right: auto;
+
+  
+}
+.button {
+    text-align: center;
+    margin-top: 0.5rem;
+  width: 8rem;
+    background-color: rgba(43, 95, 165, 1);
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 1);   
+}
+@media screen and (max-width: 480px ) {
+    .big-container {
+       background-color: rgba(43, 95, 165, 1);
+     
+
+position: relative;
+margin-top: 6.9rem;
+
+
+    }
+}
+.big-container {
+    background-color: rgba(43, 95, 165, 1);
+     width: 100%;
+height: 108vh;
+position: relative;
+top: -175px;
+}
+.welcome {
+    text-align: center;
+    padding-top: 2rem;
+}
+.small-box {
+    display: flex;
+}
+@media screen and (max-width: 480px) {
+    .small-box {
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 480px) {
+    .ceo {
+        width: 250px;
+       margin-left: 3.5rem;
+    }
+}
+@media screen and (max-width: 480px) {
+    h4 {
+        margin-left: 2rem;
+        margin-top: 1rem;
+        font-size: 15px;
+    }
+}
+.great {
+    display: table;
+    margin-top: 1rem;
+}
+.ceo {
+   margin-right:14rem ;
+}
+@media screen and (max-width: 480px) {
+    .white-box {
+        width: auto;
+        height: 30vh;
+    }
+}
+.white-box {
+    width: auto;
+    height:12vh;
+}
+@media screen and (max-width: 480px) {
+    .color {
+        width: auto;
+        height: 30vh;
+        background-color: rgba(248, 251, 255, 1);
+
+    }
+}
+.color {
+    width: auto;
+    height: 30vh;
+    background-color: rgba(248, 251, 255, 1);
+
+}
+
